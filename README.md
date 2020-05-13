@@ -1,7 +1,7 @@
 # Proyecto Sao Paulo
 
 # <center> Clasificación de Defectos de Café Verde
-Actividad Final para la clase de Vision  Artificial
+Actividad Final Clase Vision  Artificial
   
 **Universidad Nacional de Colombia**
 
